@@ -2,27 +2,27 @@
 
 ## Top 10 Pokémon by Average Market Value
 
-Images/top_pokemon_value.png
+![Top Sets](Images/top_pokemon_value.png)
 
 ## Average Price by Rarity
 
-Images/rarity_values.png
+![Top Sets](Images/rarity_values.png)
 
 ## Top Sets by Average Value
 
-Images/top_sets.png
+![Top Sets](Images/top_sets.png)
 
 ## Price Distribution
 
-Images/price_distribution.png
+![Top Sets](Images/price_distribution.png)
 
 ## Top Pokémon by Total Market Value
 
-![Top Pokemon Total Market _market_value.png
+![Top Sets](Images/top_pokemon_by_total_market_value.png)
 
-## Top 10 Pokémon by Average Market Value (Alternative Analysis)
+## Alternative Top 10 Analysis
 
-![Top 10 p_10_pokemon_by_average_market_value.png
+![Top Sets](Images/top_10_pokemon_by_average_market_value.png)
 
 ## Project Overview
 
