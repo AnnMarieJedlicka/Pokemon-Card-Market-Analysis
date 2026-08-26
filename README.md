@@ -45,6 +45,16 @@ The objective of this project was to determine:
 - Jupyter Notebook
 - Excel
 
+## Skills Demonstrated
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- Market Analysis
+- Data Storytelling
+
 ## Dataset
 
 - 251 Pokémon card listings
