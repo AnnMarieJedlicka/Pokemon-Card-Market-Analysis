@@ -1,7 +1,5 @@
 # Pokémon Trading Card Market Analytics
 
-# Pokémon Trading Card Market Analytics
-
 ## Top 10 Pokémon by Average Market Value
 
 Images/top_pokemon_value.png
