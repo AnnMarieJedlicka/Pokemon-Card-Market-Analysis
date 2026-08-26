@@ -1,0 +1,10 @@
+Pokemon-Card-Market-Analysis
+│
+├── README.md
+├── Pokemon Project.ipynb
+│
+└── Images
+    ├── top_pokemon_value.png
+    ├── rarity_values.png
+    ├── top_sets.png
+    └── price_distribution.png
